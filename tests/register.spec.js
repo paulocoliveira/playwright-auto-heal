@@ -1,5 +1,4 @@
-// register.spec.js
-const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
 
 function generateEmail() {
   const timestamp = Date.now();

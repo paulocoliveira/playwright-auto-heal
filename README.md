@@ -44,10 +44,6 @@ Then, run:
 npx playwright test
 ```
 
-## ✍️ Blog Link
-
-- [How to Auto Heal Tests in Playwright](TBD)
-
 ## 🧬 Need Assistance?
 
 - Discuss your queries by writing to me @ `paulocol@gmail.com`
